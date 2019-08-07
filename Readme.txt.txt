@@ -1,10 +1,4 @@
-Zagadou Daniella Marie-Hermance Oyotode
-31321815
-Project 02
-Lab section: MW 12:30 TO 1:45
 
-
-To read my code, open it with Eclipse
 
 *Clubs is class taking the club number and the power as parameter. The club number allows to get the mean and the standard debiation of the distance via the method
 gethitInfo() in order to compute the distance travelled in the method nextDistance(mean, stddeviation, power)
